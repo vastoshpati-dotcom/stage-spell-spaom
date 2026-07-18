@@ -1,0 +1,16 @@
+REVISED SS-SPAOM MONTE CARLO STUDY
+=================================
+
+Simulation mode: FINAL
+Replications per scenario: 300
+Completed scenarios: 96 / 96
+
+Mean SS-SPAOM log-loss advantage under beta >= 0.52: 0.0372975987702908
+Mean SS-SPAOM log-loss advantage under beta = 0: -5.49366526893136e-05
+
+Interpretation standard:
+- beta = 0 should favour or tie the homogeneous model;
+- moderate or strong beta should increasingly favour SS-SPAOM;
+- recovery should improve with more processes and longer histories;
+- the spline may be marginally better, but SS-SPAOM should remain competitive;
+- unequal eta designs test separation of stage persistence from spell dynamics.
