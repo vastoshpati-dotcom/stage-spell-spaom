@@ -1,0 +1,17 @@
+PA-X PRIMARY TRANSITION DATASET
+==============================
+
+Original workbook: C:/Users/Hp/Downloads/pax_data_2257_agreements_13-04-26.xlsx
+Workbook sheet: in
+Agreement records read: 2257
+Usable agreement records: 0
+Peace processes with at least one transition: 0
+Primary minimum transitions per process: 2
+Primary peace processes: 0
+Primary transitions: 0
+Self-transitions: 0
+Departures: 0
+Departure proportion: NaN
+Same-date transitions: 0
+
+CSV saved at: C:/Users/Hp/Downloads/01_primary_transition_dataset.csv
