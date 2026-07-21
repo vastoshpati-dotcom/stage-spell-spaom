@@ -1,7 +1,9 @@
 # Manuscript
 
-This folder contains the current LaTeX manuscript and supplementary material
-for the Stage–Spell Peace Agreement Opportunity Model (SS-SPAOM).
+The manuscript and supplementary material are currently under journal review
+and are therefore not publicly available.
 
-Only the final stage-spell specification is retained. Earlier formulations
-based on a global learning–fatigue peak are not part of the primary model.
+The computational code and reproducibility outputs supporting the study are
+available in the other folders of this repository. The manuscript will be
+added after publication, subject to the journal's copyright and repository
+policies.
