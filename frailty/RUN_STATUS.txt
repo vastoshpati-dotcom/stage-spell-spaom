@@ -1,0 +1,13 @@
+Analysis mode: FINAL
+Input file: C:/Users/Hp/Downloads/PA_X_SPAOM_Complete_Final_Analysis_V2/01_primary_transition_dataset.csv
+Transitions: 2051
+Peace processes: 132
+Fixed beta: 0.519843493602737
+Frailty beta: 0.481838329167579
+Frailty SD: 0.165851817192455
+Variance bootstrap p-value: 0.0600858369098712
+Successful variance bootstraps: 465 / 499
+Successful process bootstraps: 493 / 499
+Completed grouped CV folds: 50 / 50
+Interpretation: The stage-spell effect remains positive after the frailty extension, but evidence for additional random-intercept heterogeneity is limited.
+Output directory: C:/Users/Hp/Downloads/PA_X_SS_SPAOM_Frailty_FINAL

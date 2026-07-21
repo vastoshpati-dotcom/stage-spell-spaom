@@ -1,0 +1,12 @@
+FRAILTY SENSITIVITY INTERPRETATION
+=================================
+
+The stage-spell effect remains positive after the frailty extension, but evidence for additional random-intercept heterogeneity is limited.
+
+Fixed beta_spell: 0.519843493602737
+Frailty beta_spell: 0.481838329167579
+Attenuation ratio: 0.926891141463047
+Frailty standard deviation: 0.165851817192455
+Frailty variance bootstrap p-value: 0.0600858369098712
+
+The fixed SS-SPAOM remains the frozen primary model. The random-intercept model is reported only as a sensitivity analysis.

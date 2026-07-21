@@ -1,0 +1,5 @@
+"criterion","satisfied"
+"Frailty bootstrap p-value below 0.05",FALSE
+"Frailty beta bootstrap interval above zero",TRUE
+"Frailty model improves grouped log loss",FALSE
+"Frailty beta is less than 70% of fixed beta",FALSE
