@@ -1,0 +1,6 @@
+STRONG: SS-SPAOM shows inferential and predictive evidence over the origin-specific homogeneous model.
+
+Estimated beta_spell: 0.519844671239701
+Parametric-bootstrap p-value: 0.002
+Relative opportunity intensity at spell age 5: 0.433155833779708
+Output directory: C:/Users/Hp/Downloads/PA_X_SS_SPAOM_FINAL_Analysis

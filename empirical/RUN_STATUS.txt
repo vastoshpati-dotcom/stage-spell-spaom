@@ -1,0 +1,11 @@
+Analysis mode: FINAL
+Input file: C:/Users/Hp/Downloads/PA_X_SPAOM_Complete_Final_Analysis_V2/01_primary_transition_dataset.csv
+Transitions: 2051
+Peace processes: 132
+Beta spell estimate: 0.519844671239701
+Bootstrap p-value: 0.002
+Completed primary CV folds: 50 / 50
+Successful null bootstraps: 499 / 499
+Successful parameter bootstraps: 499 / 499
+Verdict: STRONG: SS-SPAOM shows inferential and predictive evidence over the origin-specific homogeneous model.
+Output directory: C:/Users/Hp/Downloads/PA_X_SS_SPAOM_FINAL_Analysis
