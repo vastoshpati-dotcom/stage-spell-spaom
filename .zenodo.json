@@ -1,0 +1,22 @@
+{
+  "creators": [
+    {
+      "name": "Shastri, Vastoshpati",
+      "orcid": "0009-0005-2505-3664"
+    }
+  ],
+  "title": "Stage-Spell Peace Agreement Opportunity Model (SS-SPAOM): Reproducibility Materials",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "peace agreements",
+    "multistate model",
+    "duration dependence",
+    "stage-spell age",
+    "Monte Carlo simulation",
+    "R"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}
